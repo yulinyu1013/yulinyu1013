@@ -2,7 +2,10 @@
 <h3 align="center">A passionate SDE in the making</h3>
 
 - 😄 Pronouns: **She/Her**
+- 👩🏻‍🎓 I'm a first-year master student majoring in **data science at the University of Pennsylvania**
 - 🔭 I’m currently looking for **SDE Internship Opportunities**
+- 🖥 I'm working on: A group-centric social network web app that focuses on building interest groups around books, music, and movies.(**Tech stacks: React, Node.js, MySQL, Javascript, HTML, CSS**)
+- 📚 Courses that I am taking: **Database and Information System, Programming for the Web, Applied Machine Learning**
 - 📫 How to reach me **yulinyu@seas.upenn.edu**
 - ⚡ Interests **dancing, singing, reading, cooking, and coding!**
 
