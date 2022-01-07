@@ -3,11 +3,7 @@
 
 - 😄 Pronouns: **She/Her**
 - 👩🏻‍🎓 I'm a first-year master student majoring in **data science at the University of Pennsylvania**
-- 🔭 I’m currently looking for **SDE Internship Opportunities**
-- 🖥 I'm working on: 
-    - **A group-centric social network web app that focuses on building interest groups around books, music, and movies**.(**Tech stacks: React, Node.js, MySQL, Javascript, HTML, CSS**)
-    - **NBA Dream Team Web Application that focuses on database design**
-- 📚 Courses that I am taking: **Database and Information System, Programming for the Web, Applied Machine Learning**
+- 📚 Courses that I am taking: **Internet and Web System, Algorithm, Big Data Analytics**
 - 📫 How to reach me **yulinyu@seas.upenn.edu**
 - ⚡ Interests **dancing, singing, reading, cooking, and coding!**
 
@@ -29,3 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- - 🔭 I’m currently looking for **SDE Internship Opportunities**
+- 🖥 I'm working on: 
+    - **A group-centric social network web app that focuses on building interest groups around books, music, and movies**.(**Tech stacks: React, Node.js, MySQL, Javascript, HTML, CSS**)
+    - **NBA Dream Team Web Application that focuses on database design** -->
