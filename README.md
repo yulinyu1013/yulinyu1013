@@ -2,8 +2,8 @@
 <h3 align="center">A passionate SDE in the making</h3>
 
 - 😄 Pronouns: **She/Her**
-- 👩🏻‍🎓 I'm a first-year master student majoring in **data science at the University of Pennsylvania**
-- 📚 Courses that I am taking: **Internet and Web System, Algorithm, Big Data Analytics**
+- 👩🏻‍🎓 I'm a second-year master student majoring in **data science at the University of Pennsylvania**
+<!-- - 📚 Courses that I am taking: **Internet and Web System, Algorithm, Big Data Analytics** -->
 - 📫 How to reach me **yulinyu@seas.upenn.edu**
 - ⚡ Interests **dancing, singing, reading, cooking, and coding!**
 
